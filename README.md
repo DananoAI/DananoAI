@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DananoAI
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web3 and Blockchain Development
 - 🌱 I’m currently learning Back End Development 
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me danidex101@gmail.com
